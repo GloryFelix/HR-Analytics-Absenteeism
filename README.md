@@ -1,6 +1,8 @@
 
 # Arima Insurance Global - HR Analysis on Absenteeism
 
+![HR Analytics](/images/HR-Analytics.png)
+
 ## Introduction
 The analysis focuses on the absenteeism case study of Arima Insurance global. The objective is to know the causes of absenteeism, the department with most absent days and how to improve employee presence in Arima. The analysis was carried out using Microsoft Power Bi.
 
@@ -25,7 +27,7 @@ The analysis was divided into 3 categories:
 - The total number of employees is 8,366 having males(4,216) and 4,120 females.
 - Vancouver had the highest number of employees (1,780)
 
-![cities with the highest nmber of employee](/images/01_chart.png)
+![cities with the highest number of employee](/images/01_chart.png)
 
 Blue River, Keremeos and Lytton had the least number of cities of 2 employees each.
 
